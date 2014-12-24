@@ -26,16 +26,6 @@
 
 ---
 
-## Frontend Workflow
-
-* [Getting Good with Grunt](http://code.tutsplus.com/courses/getting-good-with-grunt)
-* [Pro frontend workflows](http://code.tutsplus.com/courses/pro-front-end-workflows)
-* [Say Yo to Yeoman](http://code.tutsplus.com/courses/say-yo-to-yeoman)
-* [Tools of the Modern Web Developer](http://code.tutsplus.com/courses/tools-of-the-modern-web-developer)
-* [More Tools of the Modern Web Developer](http://code.tutsplus.com/courses/more-tools-of-the-modern-web-developer)
-
----
-
 ## Other Resources
 
 * [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - A collection of awesome browser-side JavaScript libraries, resources and shiny things.
