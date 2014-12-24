@@ -87,3 +87,5 @@ In this article, we'll dig into what mocking is, why it's useful, and how to int
 * [Awesome PHP](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 * [PHP Trends](http://phptrends.com/) - Latest trending PHP libraries and tools
+
+* [Packagist](http://packagist.org) - Packagist is the main Composer repository. It aggregates all sorts of PHP packages that are installable with Composer.
