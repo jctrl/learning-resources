@@ -2,6 +2,14 @@
 
 * [What is devops, in simple english](https://www.youtube.com/watch?v=_I94-tJlovg)
 
+## Development Environment
+
+* [Aewsome Vagrant](https://github.com/iJackUA/awesome-vagrant) - A curated list of awesome Vagrant resources, plugins, tutorials and other nice things. Inspired by awesome lists.
+* [Virtual Machines With Vagrant and Puppet](http://code.tutsplus.com/courses/virtual-machines-with-vagrant-and-puppet)
+* [Vagrant - Staging Server](http://code.tutsplus.com/articles/setting-up-a-staging-environment--net-29738)
+* [Building a custom Vagrant Box](https://beingasysadmin.wordpress.com/2013/01/22/building-custom-vagrant-base-box/)
+* [Internal IT Automation With Puppet](http://www.conductor.com/nightlight/internal-it-automation-with-puppet/)
+* 
 ## Continuous Delivery
 
 * [Setting Up Continuous Integration & Continuous Deployment With Jenkins](http://code.tutsplus.com/tutorials/setting-up-continuous-integration-continuous-deployment-with-jenkins--cms-21511)
@@ -31,11 +39,10 @@
 
 ---
 
-## Puppet
+## Provisioning
 
+* [Amazon AWS Cloud EC2 bootstrap with userdata cloudinit github puppet](http://www.knowceantech.com/2014/03/amazon-cloud-bootstrap-with-userdata-cloudinit-github-puppet/)
 * [Scaling Puppet in EC2](http://sorcery.smugmug.com/2013/01/14/scaling-puppet-in-ec2/)
-* 
----
 
 
 ---
@@ -49,7 +56,9 @@
 * [Chatops at GitHub - video](https://www.youtube.com/watch?v=NST3u-GjjFw)
 
 --- 
+
 ## Communication
+
 * [A Day of Communication at GitHub](http://zachholman.com/posts/github-communication/)
 * [How we use Hipchat to work remotely](https://blog.serverdensity.com/use-hipchat-work-remotely/)
 * [Make HipChat your Team’s Command Center](https://blog.hipchat.com/2013/02/28/make-hipchat-your-teams-command-center/)
@@ -75,8 +84,6 @@
 
 * [How To Scale Ruby on Rails Applications Across Multiple Droplets (Part 1)](https://www.digitalocean.com/community/tutorials/how-to-scale-ruby-on-rails-applications-across-multiple-droplets-part-1)
 * [Autoscaling on AWS Without Bundling AMIs](http://www.arfon.org/autoscaling-on-aws-without-bundling-amis)
-* [Auto-scaling EC2 Servers and Updating Code](http://serverfault.com/questions/448093/auto-scaling-ec2-servers-and-updating-code)
-* [Scaling Puppet in EC2](http://sorcery.smugmug.com/2013/01/14/scaling-puppet-in-ec2/)
 
 #### Databases
 
@@ -84,7 +91,8 @@
 * [MySQL - Master/Master replication](https://www.digitalocean.com/community/tutorials/how-to-set-up-mysql-master-master-replication)
 * [PostgresSQL - Master/Slave replication](https://www.digitalocean.com/community/tutorials/how-to-set-up-master-slave-replication-on-postgresql-on-an-ubuntu-12-04-vps)
 * [How To Use HAProxy to Set Up MySQL Load Balancing](https://www.digitalocean.com/community/tutorials/how-to-use-haproxy-to-set-up-mysql-load-balancing--3)
-
+* [Migrating a production MySQL Database to Amazon RDS with minimal downtime](https://engineering.gosquared.com/migrating-mysql-to-amazon-rds)
+* 
 ##### MongoDB
 
 * [How To Set Up a Scalable MongoDB Database](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-scalable-mongodb-database)
@@ -97,10 +105,14 @@
 * [Tumblr Architecture - 15 Billion Page Views A Month And Harder To Scale Than Twitter](http://highscalability.com/blog/2012/2/13/tumblr-architecture-15-billion-page-views-a-month-and-harder.html)
 * [How HipChat scales to 1 Billion Messages](http://blog.hipchat.com/2013/10/16/how-hipchat-scales-to-1-billion-messages/)
 
-
 ---
 
+## Articles
+
+* [DevOps Best Practices: Finding the Right Tools](http://blog.newrelic.com/2014/06/02/devops-tools/)
+* [Tools and Services I like](http://flomotlik.me/tools-i-like)
 
 ## Other
 
 * [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
+* [Logentries-must-have-technologies-2015](https://blog.logentries.com/wp-content/uploads/2014/12/Logentries-must-have-technologies-2015-it-devops-toolkit.png)
