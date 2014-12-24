@@ -20,6 +20,8 @@
 * [TutsPlus - Rails](http://hub.tutsplus.com/search?utf8=%E2%9C%93&search%5Bkeywords%5D=rails&button=)
 * [RailsCasts](http://railscasts.com/) - Tons of great Rails screencasts free and premium by Ryan Bates.
 
+---
+
 ## Best Practices
 
 * [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) - A community-driven Ruby coding style guide
