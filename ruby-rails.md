@@ -25,23 +25,25 @@
 ## Best Practices
 
 * [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) - A community-driven Ruby coding style guide
-* [Design Patterns in Ruby](https://github.com/nslocum/design-patterns-in-ruby) - Examples from the book Design Patterns in Ruby by Russ Olsen
+* [Design Patterns in Ruby](http://code.tutsplus.com/courses/design-patterns-in-ruby)
+* [Design Patterns in Ruby - Book](https://github.com/nslocum/design-patterns-in-ruby) - Examples from the book Design Patterns in Ruby by Russ Olsen
 
 ---
 
 ## Tutorials
 
-* [Authentication in Ruby](http://code.tutsplus.com/courses/authentication-with-ruby)
+* [Authentication in Ruby](http://code.tutsplus.com/courses/authentication-with-ruby) - Multiple ways to authenticate users in Ruby.
 * [Build a Ruby Product for the Long Run](http://code.tutsplus.com/courses/build-a-ruby-product-for-the-long-run) - In this course you'll learn how to build a Ruby product for the long run. Taking several criteria into consideration, we'll build a three-stage product. Even though everything will be built in Ruby, it doesn't have to be that way, as we'll rely heavily on the standard of HTTP to help us glue each piece together.
 * [Building Ribbit in Rails](http://code.tutsplus.com/courses/building-ribbit-in-rails) - In this course, we’ll build a Twitter-clone, called Ribbit, from scratch, using Ruby on Rails. Following on from our popular multi-language series on Nettuts+, this time, we’ll use screencasts to teach the process!
 * [Build a Store With a Payment Gateway in Rails](One of the most common and essential scenarios for a business is commerce. Online shops fill the Internet as a means of providing value to customers. If you are looking for implementing a shop yourself you're in the right place.
-* [Build COmmand Line Apps in Ruby](http://code.tutsplus.com/courses/command-line-apps-in-ruby) - In this course, we’ll cover two awesome frameworks: Thor and GLI. They are similar in context but serve different crowds and purposes. You’ll learn the differences between the two and when to use each one
+* [Build Command Line Apps in Ruby](http://code.tutsplus.com/courses/command-line-apps-in-ruby) - In this course, we’ll cover two awesome frameworks: Thor and GLI. They are similar in context but serve different crowds and purposes. You’ll learn the differences between the two and when to use each one
 
 ---
 
 ## Advanced Tutorials
 
 * [Metaprogramming in Ruby](http://code.tutsplus.com/courses/metaprogramming-in-ruby)
+* [Build REST APIs With Grape](http://code.tutsplus.com/courses/build-rest-apis-with-grape) - If you want to build modular, versioned RESTful APIs in Ruby, then Grape is the perfect tool. With its strong conventions, it strives to be the perfect solution for that small to medium size API you want to build.
 
 ---
 
