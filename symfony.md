@@ -104,6 +104,8 @@ Available in version 2.0, Symfony already has, among the hundreds of sites and a
 
 * [Upload files to Amazon S3 with Symfony2 and Gaufrette](http://braincrafted.com/symfony2-gaufrette-s3/)
 
+* [Speedup Symfony2 on Vagrant boxes](http://www.whitewashing.de/2013/08/19/speedup_symfony2_on_vagrant_boxes.html)
+
 ---
 
 ## Deployment
