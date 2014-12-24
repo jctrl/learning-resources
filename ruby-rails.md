@@ -65,6 +65,7 @@
 
 * [SitePoint - Rails](http://www.sitepoint.com/ruby/)
 * [RubyFlow](http://www.rubyflow.com/)
+* [Twitter Ruby List](https://twitter.com/brunopaz88/lists/ruby)
 
 ---
 
@@ -75,6 +76,12 @@
 Get the most out of BDD in Ruby with The RSpec Book, written by the lead developer of RSpec, David Chelimsky.
 
 --- 
+
+## Manage ruby version
+
+* [How to install ruby on rails on ubuntu using RVM](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-on-ubuntu-14-04-using-rvm)
+
+---
 
 ## Other
 
