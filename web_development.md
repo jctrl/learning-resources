@@ -16,6 +16,7 @@ Workflows, tools etc belong here.
 * [Say Yo to Yeoman](http://code.tutsplus.com/courses/say-yo-to-yeoman)
 * [Automating your Front-End Workflow](https://speakerdeck.com/addyosmani/automating-front-end-workflow)
 * [Top Grunt Plugins](https://gist.github.com/brpaz/c5c643e5ecdefa015b2d)
+* [Kickstart Your AngularJS Development with Yeoman, Grunt and Bower](http://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/)
 
 ---
 
