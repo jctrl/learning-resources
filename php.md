@@ -70,7 +70,7 @@ In this article, we'll dig into what mocking is, why it's useful, and how to int
 
 * [Composer](http://getcomposer.org) - Dependency Manager for PHP.
 * [8 Must have PHP QA tools](http://www.sitepoint.com/8-must-have-php-quality-assurance-tools/)
-
+* [XDebug Tutorial](http://code.tutsplus.com/tutorials/xdebug-professional-php-debugging--net-34396)
 ---
 
 ## Other Resources
