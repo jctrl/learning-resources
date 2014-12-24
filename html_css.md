@@ -27,6 +27,8 @@
 ## Tutorials
 
 * [Master HTML Email](http://dev.tutsplus.com/series/mastering-html-email--webdesign-17696) - This series of tutorials will take you through the fundamentals, exploring development techniques, workflow and design approaches. By the end, you'll have gained enough knowledge and confidence to tackle HTML email properly.
+* [Web Assets - Tips for Better Organization and Performance](http://code.tutsplus.com/articles/web-assets-tips-for-better-organization-and-performance--net-33950)
+
 
 ---
 
