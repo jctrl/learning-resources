@@ -53,6 +53,7 @@ In this article, we'll dig into what mocking is, why it's useful, and how to int
 ##  News and Blogs
 
 * [Sitepoint PHP](http://www.sitepoint.com/php/)
+* [PHP@Twitter[https://twitter.com/brunopaz88/lists/php] - Twitter list containg many php related twitter accounts.
 
 ---
 
