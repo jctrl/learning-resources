@@ -23,7 +23,7 @@ Start Here if you are new to PHP.
 
 * [PHP The right way](http://www.phptherightway.com/) - Coding standards and best practices
 * [PHP Best Practices](https://phpbestpractices.org/) - A short, practical guide for common and confusing PHP tasks
-* [PSR-Huh](]http://code.tutsplus.com/tutorials/psr-huh--net-29314) - If you're an avid PHP developer, it's quite likely that you've come across the abbreviation, PSR, which stands for "PHP Standards Recommendation." At the time of this writing, there are four of them: PSR-0 to PSR-3. Let's take a look at what these are, and why you should care (and participate).
+* [PSR-Huh?](http://code.tutsplus.com/tutorials/psr-huh--net-29314) - If you're an avid PHP developer, it's quite likely that you've come across the abbreviation, PSR, which stands for "PHP Standards Recommendation." At the time of this writing, there are four of them: PSR-0 to PSR-3. Let's take a look at what these are, and why you should care (and participate).
 * [PSR-2 coding standard](http://www.php-fig.org/psr/psr-2/)
 * [Design Patterns](https://tutsplus.com/course/agile-design-patterns/) - In this course, you’ll learn what design patterns are, how each of them is defined, what they are used for and, of course, how to implement them in PHP!
 * [How to Write Testable and Maintainable Code in PHP](http://code.tutsplus.com/tutorials/how-to-write-testable-and-maintainable-code-in-php--net-31726) - Frameworks provide a tool for rapid application development, but often accrue technical debt as rapidly as they allow you to create functionality. Technical debt is created when maintainability isn't a purposeful focus of the developer. Future changes and debugging become costly, due to a lack of unit testing and structure.
