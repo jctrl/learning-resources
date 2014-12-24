@@ -19,16 +19,25 @@ Start Here if you are new to PHP.
 
 * [PHP The right way](http://www.phptherightway.com/) - Coding standards and best practices
 * [PHP Best Practices](https://phpbestpractices.org/) - A short, practical guide for common and confusing PHP tasks
+* [PSR-Huh?](]http://code.tutsplus.com/tutorials/psr-huh--net-29314) - If you're an avid PHP developer, it's quite likely that you've come across the abbreviation, PSR, which stands for "PHP Standards Recommendation." At the time of this writing, there are four of them: PSR-0 to PSR-3. Let's take a look at what these are, and why you should care (and participate).
 * [PSR-2 coding standard](http://www.php-fig.org/psr/psr-2/)
 * [Design Patterns](https://tutsplus.com/course/agile-design-patterns/) - In this course, you’ll learn what design patterns are, how each of them is defined, what they are used for and, of course, how to implement them in PHP!
+* [How to Write Testable and Maintainable Code in PHP](http://code.tutsplus.com/tutorials/how-to-write-testable-and-maintainable-code-in-php--net-31726) - Frameworks provide a tool for rapid application development, but often accrue technical debt as rapidly as they allow you to create functionality. Technical debt is created when maintainability isn't a purposeful focus of the developer. Future changes and debugging become costly, due to a lack of unit testing and structure.
 
+Here's how to begin structuring your code to achieve testability and maintainability - and save you time.
+
+## Tutorials
+
+* [PHP Database Access: Are You Doing It Correctly?](http://code.tutsplus.com/tutorials/php-database-access-are-you-doing-it-correctly--net-25338) - 
 ## Other Tutorials
 
 * [TutsPlus PHP](http://hub.tutsplus.com/search?utf8=%E2%9C%93&search%5Bkeywords%5D=php&button=) - Various free and premum PHP related tutorial in the tutsplus website
 
 * [Dates and Time - The OOP Way](http://dev.tutsplus.com/tutorials/dates-and-time-the-oop-way--net-35395)
+* [Easy Package Management With Composer](http://code.tutsplus.com/tutorials/easy-package-management-with-composer--net-25530)
 
---- 
+---
+
 ## TDD and BDD
 
 * [BDD, Behat, Mink and other Wonderful Things Tutorial](http://knpuniversity.com/screencast/behat) -  In this tutorial, you'll internalize Behavior-Driven Development and how thinking about behavior will increase the quality and efficiency of your code. You'll become an expert in Behat - the BDD PHP framework - and Mink - your key to testing web applications in sophisticated ways that include the ability to test your JavaScript pages. We'll also explore the pitfalls of testing with Behat, such as data sanitization, bootstrapping your code, and other challenges. By the end, you'll be well on your way to writing high-quality tests for your application and - more importantly - approaching development in a totally new light.
