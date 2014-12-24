@@ -26,7 +26,7 @@
 
 * [AWS re:Invent 2014 | (ARC402) Deployment Automation: From Developer Keyboards to End User Screens](https://www.youtube.com/watch?v=vYXvTbCRGD0&index=16&list=PLtuDLemCCVKiM4xg6nAt42HzYbucCu6tg)
 * [Deploying at GitHub](https://github.com/blog/1241-deploying-at-github)
-* [Hubot, Hipchat and Fabric](http://engineering.custommade.com/hubot-hipchat-and-fabric/)
+* [Hubot,Hipchat and Fabric](http://engineering.custommade.com/hubot-hipchat-and-fabric/)
 
 ---
 
@@ -40,11 +40,18 @@
 
 ---
 
+## Heroku
+
+* [Heroku - Getting started](https://devcenter.heroku.com/start)
+
+---
+
+
 ## Provisioning
 
 * [Amazon AWS Cloud EC2 bootstrap with userdata cloudinit github puppet](http://www.knowceantech.com/2014/03/amazon-cloud-bootstrap-with-userdata-cloudinit-github-puppet/)
 * [Scaling Puppet in EC2](http://sorcery.smugmug.com/2013/01/14/scaling-puppet-in-ec2/)
-
+* [How To Use Puppet To Manage Your Servers](https://www.digitalocean.com/community/tutorial_series/how-to-use-puppet-to-manage-your-servers-2)
 
 ---
 
@@ -55,11 +62,6 @@
 * [An Introduction to ChatOps: Devops Meets IM](http://www.sitepoint.com/introduction-chatops-devops-meets-im/)
 * [Chatops at GitHub - slides](https://speakerdeck.com/jnewland/chatops-at-github)
 * [Chatops at GitHub - video](https://www.youtube.com/watch?v=NST3u-GjjFw)
-
---- 
-
-## Communication
-
 * [A Day of Communication at GitHub](http://zachholman.com/posts/github-communication/)
 * [How we use Hipchat to work remotely](https://blog.serverdensity.com/use-hipchat-work-remotely/)
 * [Make HipChat your Team’s Command Center](https://blog.hipchat.com/2013/02/28/make-hipchat-your-teams-command-center/)
@@ -102,14 +104,20 @@
 
 ---
 
+## Load Testing
+
+* [New Relic & JMeter - Perfect Performance Testing](http://code.tutsplus.com/tutorials/new-relic-jmeter-perfect-performance-testing--net-34978)
+* [How To Use Apache JMeter To Perform Load Testing on a Web Server](https://www.digitalocean.com/community/tutorials/how-to-use-apache-jmeter-to-perform-load-testing-on-a-web-server)
+* [Learn jMeter in 60 minutes](https://www.youtube.com/watch?v=cv7KqxaLZd8)
+* [JMeter - How To Login Into A Web Application](https://www.youtube.com/watch?v=hGkrSFKcj10)
+
+
+---
+
 ## Articles
 
 * [DevOps Best Practices: Finding the Right Tools](http://blog.newrelic.com/2014/06/02/devops-tools/)
 * [Tools and Services I like](http://flomotlik.me/tools-i-like)
-
-## Tools
-
-* [Intro to tmux](http://code.tutsplus.com/tutorials/intro-to-tmux--net-33889)
 
 ## Other
 
