@@ -1,6 +1,7 @@
 # Learn Git
 
-* [Git book](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics) - Official git documentation
+* [git-scm.com](http://www.git-scm.com/) - git official website
+* [Git book](http://git-scm.com/book) - Official git documentation
 * [Git Essentials](http://code.tutsplus.com/courses/git-essentials)
 * [Try Git - CodeSchool](https://try.github.io/levels/1/challenges/1)
 * [GitReal](http://gitreal.codeschool.com/)
