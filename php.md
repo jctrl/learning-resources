@@ -3,6 +3,10 @@
 
 PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.
 
+## Install and configure
+
+* [How To Install Linux, nginx, MySQL, PHP (LEMP) stack on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-ubuntu-14-04)
+
 ## The basics
 
 Start Here if you are new to PHP.
@@ -24,12 +28,9 @@ Start Here if you are new to PHP.
 * [Design Patterns](https://tutsplus.com/course/agile-design-patterns/) - In this course, you’ll learn what design patterns are, how each of them is defined, what they are used for and, of course, how to implement them in PHP!
 * [How to Write Testable and Maintainable Code in PHP](http://code.tutsplus.com/tutorials/how-to-write-testable-and-maintainable-code-in-php--net-31726) - Frameworks provide a tool for rapid application development, but often accrue technical debt as rapidly as they allow you to create functionality. Technical debt is created when maintainability isn't a purposeful focus of the developer. Future changes and debugging become costly, due to a lack of unit testing and structure.
 
-Here's how to begin structuring your code to achieve testability and maintainability - and save you time.
-
 ## Tutorials
 
 * [PHP Database Access: Are You Doing It Correctly?](http://code.tutsplus.com/tutorials/php-database-access-are-you-doing-it-correctly--net-25338) - 
-## Other Tutorials
 
 * [TutsPlus PHP](http://hub.tutsplus.com/search?utf8=%E2%9C%93&search%5Bkeywords%5D=php&button=) - Various free and premum PHP related tutorial in the tutsplus website
 
@@ -52,6 +53,20 @@ In this article, we'll dig into what mocking is, why it's useful, and how to int
 ##  News and Blogs
 
 * [Sitepoint PHP](http://www.sitepoint.com/php/)
+
+---
+
+## Top Frameworks
+
+* [Symfony](http://symfony.com) - Speed up the creation and maintenance of your PHP web applications. End repetitive coding tasks and enjoy the power of controlling your code.
+* [Laravel](http://laravel.com) - THE PHP FRAMEWORK FOR WEB ARTISANS.
+* [Zend Framework](http://framework.zend.com/)
+* [Silex](silex.sensiolabs.org) - Silex is a PHP microframework for PHP 5.3. It is built on the shoulders of Symfony2 and Pimple and also inspired by sinatra.
+
+## Tools
+
+* [Composer](http://getcomposer.org) - Dependency Manager for PHP.
+* [8 Must have PHP QA tools](http://www.sitepoint.com/8-must-have-php-quality-assurance-tools/)
 
 ---
 
