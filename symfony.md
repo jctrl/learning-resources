@@ -24,10 +24,13 @@ Available in version 2.0, Symfony already has, among the hundreds of sites and a
 
 * [SensioLabs - Youtube](https://www.youtube.com/user/SensioLabs) - Great source for Conference Videos.
 
+---
+
 ## Bundles
 
 * [KnpBundles](http://knpbundles.com/) - Symfony 2 Bundle directory
 
+---
 
 ## Blogs
 
@@ -55,7 +58,9 @@ Available in version 2.0, Symfony already has, among the hundreds of sites and a
 * [How kris-writes-symfony-apps](http://pt.slideshare.net/kriswallsmith/how-kriswritessymfonyappslondon) 
 * [The dependency trap](https://www.youtube.com/watch?v=eJ8qlLS1kUs)
 * [Hexagonal Symfony](http://pt.slideshare.net/marcello.duarte/hexagonal-symfony)
-* [Optimizing Frontend Workflow](http://pt.slideshare.net/mdavis1982/optimising-your-front-end-workflow-with-symfony-twig-bower-and-gulp)
+* [SymfonyLive London 2014 - Konstantin Kudryashov - Decoupling with Design Patterns and Symfony2 DIC](https://www.youtube.com/watch?v=UIDlOV40xCY)
+
+---
 
 #### Doctrine
 
@@ -64,14 +69,16 @@ Available in version 2.0, Symfony already has, among the hundreds of sites and a
 * [Doctrine Extensions | Translatable](https://github.com/l3pp4rd/DoctrineExtensions/blob/master/doc/translatable.md)
 
 * [Inject service into Doctrine Repository](http://www.phamviet.net/2012/12/09/symfony-2-inject-service-as-dependency-in-to-repository/)
-* 
+
+---
+
 #### Console
 
 * [Create a Composer Command Line Installer With the Symfony2 CLI](http://odino.org/install-composer-dependencies-with-the-symfony2-cli/)
 
 * [How to Build Console applications](http://danielcsgomes.com/talks/build-console-applications-symfonycon-2013/)
 
-
+---
 
 #### Event Dispatcher
 
@@ -79,9 +86,15 @@ Available in version 2.0, Symfony already has, among the hundreds of sites and a
 
 * [Using kernel events like preExecute to log requests](http://shout.setfive.com/2013/07/08/symfony2-using-kernel-events-like-preexecute-to-log-requests/)
 
+---
+
 #### Asset Management
 
 * [A better way to work with assets in Symfony 2](http://konradpodgorski.com/blog/2014/06/23/better-way-to-work-with-assets-in-symfony-2/)
+
+* [Optimizing Frontend Workflow](http://pt.slideshare.net/mdavis1982/optimising-your-front-end-workflow-with-symfony-twig-bower-and-gulp)
+
+---
 
 #### Others
 
@@ -91,12 +104,28 @@ Available in version 2.0, Symfony already has, among the hundreds of sites and a
 
 * [Upload files to Amazon S3 with Symfony2 and Gaufrette](http://braincrafted.com/symfony2-gaufrette-s3/)
 
+---
+
 ## Deployment
 
 * [Running Symfony on Heroku](http://robinvdvleuten.nl/blog/running-symfony-on-heroku/)
 
 * [Deploy Symfony application with Capifony](http://tutorial.screenfony.com/product/free/symfony2-deployment)
 
+* [One commit, one release. Continuously delivering a Symfony project.](http://pt.slideshare.net/loalf/one-commit-one-release-continuously-delivering-a-symfony-project-3956608)
+
+---
+
+## Conferences Videos
+
+* [Symfony Live London 2014](https://www.youtube.com/playlist?list=PLo7mBDsRHu123EqX-kXnE2tLYXtdbVuzf)
+* [SymfonyCon Warsaw 2013](https://www.youtube.com/playlist?list=PLo7mBDsRHu12SbjRS_botIIdJ51zU0FxP)
+* [Symfony Live Berlim 2013](https://www.youtube.com/playlist?list=PLo7mBDsRHu10DMRsERCl6i-YUzkYqI-se)
+* [Symfony Live Paris 2013](https://www.youtube.com/playlist?list=PLo7mBDsRHu13riST-hS0ntYJVLCainkfV)
+* [Symfony Live Portland 2013](https://www.youtube.com/playlist?list=PLo7mBDsRHu12dJVHaL2Eu5qDUuoe6xq_5)
+* [Symfony Live London 2013](https://www.youtube.com/playlist?list=PLo7mBDsRHu11HSkEucxDIAxeBZUJp10Jn)
+
+---
 
 ## Communities
 
