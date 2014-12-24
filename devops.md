@@ -28,7 +28,6 @@
 * [Deploying at GitHub](https://github.com/blog/1241-deploying-at-github)
 * [Hubot, Hipchat and Fabric](http://engineering.custommade.com/hubot-hipchat-and-fabric/)
 
-
 ---
 
 ## AWS
@@ -36,6 +35,8 @@
 * [Linux Academy](https://linuxacademy.com/amazon-web-services)
 * [Articles & Tutorials](https://aws.amazon.com/articles)
 * [AWS Tutorials](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html)
+* [Painless AWS Auto Scaling With EBS Snapshots and Capistrano](http://boomboomboom.biz/blog/2013/06/28/painless-aws-autoscaling-with-ebs-snapshots-and-capistrano/)
+* [Autoscaling on AWS Without Bundling AMIs](http://www.arfon.org/autoscaling-on-aws-without-bundling-amis)
 
 ---
 
@@ -80,11 +81,6 @@
 * [How To Use HAProxy As A Layer 7 Load Balancer For WordPress and Nginx On Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-use-haproxy-as-a-layer-7-load-balancer-for-wordpress-and-nginx-on-ubuntu-14-04)
 * [How To Use HAProxy As A Layer 4 Load Balancer for WordPress Application Servers on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-use-haproxy-as-a-layer-4-load-balancer-for-wordpress-application-servers-on-ubuntu-14-04)
 
-#### Scaling
-
-* [How To Scale Ruby on Rails Applications Across Multiple Droplets (Part 1)](https://www.digitalocean.com/community/tutorials/how-to-scale-ruby-on-rails-applications-across-multiple-droplets-part-1)
-* [Autoscaling on AWS Without Bundling AMIs](http://www.arfon.org/autoscaling-on-aws-without-bundling-amis)
-
 #### Databases
 
 * [MySQL - Master/Slave replication](https://www.digitalocean.com/community/tutorials/how-to-set-up-master-slave-replication-in-mysql)
@@ -92,10 +88,9 @@
 * [PostgresSQL - Master/Slave replication](https://www.digitalocean.com/community/tutorials/how-to-set-up-master-slave-replication-on-postgresql-on-an-ubuntu-12-04-vps)
 * [How To Use HAProxy to Set Up MySQL Load Balancing](https://www.digitalocean.com/community/tutorials/how-to-use-haproxy-to-set-up-mysql-load-balancing--3)
 * [Migrating a production MySQL Database to Amazon RDS with minimal downtime](https://engineering.gosquared.com/migrating-mysql-to-amazon-rds)
-* 
-##### MongoDB
 
 * [How To Set Up a Scalable MongoDB Database](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-scalable-mongodb-database)
+
 * [How To Create a Sharded Cluster in MongoDB Using an Ubuntu 12.04 VPS](https://www.digitalocean.com/community/tutorials/how-to-create-a-sharded-cluster-in-mongodb-using-an-ubuntu-12-04-vps)
 
 
