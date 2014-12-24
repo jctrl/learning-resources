@@ -1,3 +1,0 @@
-# Learning Puppet
-
-TODO
