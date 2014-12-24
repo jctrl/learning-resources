@@ -44,6 +44,8 @@ Workflows, tools etc belong here.
 * [Fontastic](fontastic.me) - Create your icon fonts in seconds. Make your website faster. Over 9,000 icons available. 
 * [CodePen](codepen.io) It is an HTML, CSS, and JavaScript code editor in your browser with instant previews of the code you see and write. It is a searchable trove of your own creations, and a world of other people's creations. A place to troubleshoot, to teach, to learn, to test, and to grow.
 * [Ngrok](https://ngrok.com) - Access your localhost from anywhere.
-* [grunt-spritesmith](https://github.com/Ensighten/grunt-spritesmith) - Grunt plugin for generating sprites from a folder
+* [SpritePad](http://spritepad.wearekiss.com) - With SpritePad you can create your CSS sprites within minutes seconds.
 * [Mergely](http://www.mergely.com/editor) - Online Merge tool
 * [Google Webmaster tools](https://www.google.com/webmasters/tools)
+* [Ideone](http://ideone.com) - Online IDE / Editor
+* [atom.io](http://atom.io) - Open source editor by GitHub
