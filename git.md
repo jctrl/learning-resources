@@ -13,7 +13,7 @@
 
 * [Git Branching for Agile Teams (Webinar](https://www.youtube.com/watch?v=9SZ7kSQ2424)
 * [Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
-* 
+
 ---
 
 ## Other Resources
