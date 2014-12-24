@@ -15,6 +15,7 @@ Workflows, tools etc belong here.
 * [Pro frontend workflows](http://code.tutsplus.com/courses/pro-front-end-workflows)
 * [Say Yo to Yeoman](http://code.tutsplus.com/courses/say-yo-to-yeoman)
 * [Automating your Front-End Workflow](https://speakerdeck.com/addyosmani/automating-front-end-workflow)
+* [Top Grunt Plugins](https://gist.github.com/brpaz/c5c643e5ecdefa015b2d)
 
 ---
 
