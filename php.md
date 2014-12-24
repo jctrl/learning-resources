@@ -48,6 +48,8 @@ Start Here if you are new to PHP.
 * [Easier Testing with mockery](https://tutsplus.com/tutorial/easier-testing-with-mockery/) - It's an unfortunate truth that, while the basic principle behind testing is quite simple, fully introducing this process into your day-to-day coding workflow is more difficult than you might hope. The various jargon alone can prove overwhelming! Luckily, a variety of tools have your back, and help to make the process as simple as it can be. Mockery, the premier mock object framework for PHP, is one such tool!
 In this article, we'll dig into what mocking is, why it's useful, and how to integrate Mockery into your testing workflow.
 
+* [Analyzing a PHP Project with Jenkins](http://www.sitepoint.com/analyzing-php-project-jenkins/)
+
 ---
 
 ##  News and Blogs
