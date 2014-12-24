@@ -4,13 +4,29 @@
 This page contains generic learning resources for web development, not related with any particular programming language.
 Workflows, tools etc belong here.
 
+* [Linux Web Developer Setup](http://code.tutsplus.com/courses/linux-web-developer-setup)
+
+---
+
+## Developer Tools
+
 * [Tools of the Modern Web Developer](http://code.tutsplus.com/courses/tools-of-the-modern-web-developer)
 * [More Tools of the Modern Web Developer](http://code.tutsplus.com/courses/more-tools-of-the-modern-web-developer)
+* [Speedy Workflows With Atom](http://code.tutsplus.com/courses/speedy-workflows-with-atom)
+* [Perfect Workflow in NetBeans](http://code.tutsplus.com/courses/perfect-workflow-in-netbeans)
+* [Perfect workflow in sublime text 2](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
+
+---
+## Terminal
+
+* [Advanced Command Line Techniques](http://code.tutsplus.com/courses/advanced-command-line-techniques)
+* [How to be a terminal pro](http://code.tutsplus.com/courses/how-to-be-a-terminal-pro)
+* [Venture into VIM](http://code.tutsplus.com/courses/venture-into-vim)
 
 ---
 
 ## Frontend Workflow
-
+11
 * [Getting Good with Grunt](http://code.tutsplus.com/courses/getting-good-with-grunt)
 * [Pro frontend workflows](http://code.tutsplus.com/courses/pro-front-end-workflows)
 * [Say Yo to Yeoman](http://code.tutsplus.com/courses/say-yo-to-yeoman)
