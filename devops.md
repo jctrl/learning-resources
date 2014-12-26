@@ -9,7 +9,7 @@
 * [Vagrant - Staging Server](http://code.tutsplus.com/articles/setting-up-a-staging-environment--net-29738)
 * [Building a custom Vagrant Box](https://beingasysadmin.wordpress.com/2013/01/22/building-custom-vagrant-base-box/)
 * [Internal IT Automation With Puppet](http://www.conductor.com/nightlight/internal-it-automation-with-puppet/)
-* 
+
 ## Continuous Delivery
 
 * [Setting Up Continuous Integration & Continuous Deployment With Jenkins](http://code.tutsplus.com/tutorials/setting-up-continuous-integration-continuous-deployment-with-jenkins--cms-21511)
@@ -90,6 +90,7 @@
 * [MySQL - Master/Master replication](https://www.digitalocean.com/community/tutorials/how-to-set-up-mysql-master-master-replication)
 * [PostgresSQL - Master/Slave replication](https://www.digitalocean.com/community/tutorials/how-to-set-up-master-slave-replication-on-postgresql-on-an-ubuntu-12-04-vps)
 * [How To Use HAProxy to Set Up MySQL Load Balancing](https://www.digitalocean.com/community/tutorials/how-to-use-haproxy-to-set-up-mysql-load-balancing--3)
+
 * [Migrating a production MySQL Database to Amazon RDS with minimal downtime](https://engineering.gosquared.com/migrating-mysql-to-amazon-rds)
 
 * [How To Set Up a Scalable MongoDB Database](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-scalable-mongodb-database)
@@ -120,7 +121,10 @@
 * [DevOps Best Practices: Finding the Right Tools](http://blog.newrelic.com/2014/06/02/devops-tools/)
 * [Tools and Services I like](http://flomotlik.me/tools-i-like)
 
+---
+
 ## Other
 
 * [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 * [Logentries-must-have-technologies-2015](https://blog.logentries.com/wp-content/uploads/2014/12/Logentries-must-have-technologies-2015-it-devops-toolkit.png)
+* [DigitalOcean Community Tutorials](https://www.digitalocean.com/community/) - Lots of great quaility tutorials and articles.
