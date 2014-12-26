@@ -54,6 +54,14 @@
 
 ---
 
+## Micro Frameworks
+
+* [Simple Sinatra](http://code.tutsplus.com/courses/simple-sinatra)
+* [Building static sites with Middleman](http://12devs.co.uk/articles/204/)
+* [Using Jekyll](http://code.tutsplus.com/tutorials/using-jekyll--cms-20956)
+
+---
+
 ## BDD & TDD
 
 * [Testing Ruby With RSpec](http://code.tutsplus.com/articles/new-course-testing-ruby-with-rspec--cms-22727) - RSpec is used throughout the Ruby community for doing test-driven development. In Testing Ruby With RSpec, we’ll explore some of the particular features that are available in RSpec 3. 
@@ -80,6 +88,21 @@ Get the most out of BDD in Ruby with The RSpec Book, written by the lead develop
 ## Manage ruby version
 
 * [How to install ruby on rails on ubuntu using RVM](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-on-ubuntu-14-04-using-rvm)
+
+---
+
+## Continuous Integration
+
+* [Jenkins CI setup for Rails application from scratch](http://gistflow.com/posts/492-jenkins-ci-setup-for-rails-application-from-scratch)
+* [Jenkins CI for Rails 4, RSpec, Cucumber, Selenium](http://www.eq8.eu/blogs/6-jenkins-ci-for-rails-4-rspec-cucumber-selenium)
+
+---
+
+
+## Deployment
+
+* [Deploy Rails with Capistrano 3](http://www.sitepoint.com/deploy-rails-capistrano-3/) 
+* [Getting Started with Rails 4.x on Heroku](https://devcenter.heroku.com/articles/getting-started-with-rails4)
 
 ---
 
