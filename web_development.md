@@ -65,3 +65,7 @@ Workflows, tools etc belong here.
 * [Google Webmaster tools](https://www.google.com/webmasters/tools)
 * [Ideone](http://ideone.com) - Online IDE / Editor
 * [atom.io](http://atom.io) - Open source editor by GitHub
+
+## Analytics
+
+* [Lynda.com - Google Analytics Essential Training](http://www.lynda.com/Google-Analytics-tutorials/Google-Analytics-Essential-Training/160343-2.html)
