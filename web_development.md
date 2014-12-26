@@ -15,6 +15,7 @@ Workflows, tools etc belong here.
 * [Speedy Workflows With Atom](http://code.tutsplus.com/courses/speedy-workflows-with-atom)
 * [Perfect Workflow in NetBeans](http://code.tutsplus.com/courses/perfect-workflow-in-netbeans)
 * [Perfect workflow in sublime text 2](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
+* [Venture into VIM](http://code.tutsplus.com/courses/venture-into-vim)
 
 ---
 ## Terminal
