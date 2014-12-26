@@ -64,6 +64,7 @@
 
 ## BDD & TDD
 
+* [How I learned to test my Rails applications](http://everydayrails.com/2012/03/12/testing-series-intro.html)
 * [Testing Ruby With RSpec](http://code.tutsplus.com/articles/new-course-testing-ruby-with-rspec--cms-22727) - RSpec is used throughout the Ruby community for doing test-driven development. In Testing Ruby With RSpec, we’ll explore some of the particular features that are available in RSpec 3. 
 * [Acceptance Testing in Ruby with Cucumber](Developing software is unthinkable without tests, and Ruby makes it easy since it was built to be tested. Enter Cucumber. It is the de facto standard for acceptance testing in Ruby.)
 
