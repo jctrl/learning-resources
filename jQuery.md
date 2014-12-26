@@ -13,6 +13,7 @@ jQuery is a fast, small, and feature-rich JavaScript library. It makes things li
 * [How jQuery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)
 * [30 days to learn jQuery](https://tutsplus.com/course/30-days-to-learn-jquery/)
 * [CodeSchool - Try jQuery](http://try.jquery.com/)
+* [Lynda.com - jQuery Essential Training](http://www.lynda.com/jQuery-tutorials/jQuery-Essential-Training/48370-2.html)
 
 ---
 
