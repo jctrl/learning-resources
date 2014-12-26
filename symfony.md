@@ -108,13 +108,21 @@ Available in version 2.0, Symfony already has, among the hundreds of sites and a
 
 ---
 
+## Continuous Integration
+
+* [One commit, one release. Continuously delivering a Symfony project.](http://pt.slideshare.net/loalf/one-commit-one-release-continuously-delivering-a-symfony-project-3956608)
+
+* [Using Jenkins for a Symfony2 project](http://blog.lazycloud.net/en/using-jenkins-for-a-symfony2-project/)
+
+---
+
 ## Deployment
 
 * [Running Symfony on Heroku](http://robinvdvleuten.nl/blog/running-symfony-on-heroku/)
 
-* [Deploy Symfony application with Capifony](http://tutorial.screenfony.com/product/free/symfony2-deployment)
+* [Deploying to Heroku Cloud](http://symfony.com/doc/current/cookbook/deployment/heroku.html)
 
-* [One commit, one release. Continuously delivering a Symfony project.](http://pt.slideshare.net/loalf/one-commit-one-release-continuously-delivering-a-symfony-project-3956608)
+* [Deploy Symfony application with Capifony](http://tutorial.screenfony.com/product/free/symfony2-deployment)
 
 ---
 
