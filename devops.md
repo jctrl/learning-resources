@@ -19,6 +19,7 @@
 * [Continuous Integration and Deployment Best Practices on AWS (ARC307) | AWS re:Invent 2013](https://www.youtube.com/watch?v=KOJUEioYJcM&index=14&list=PLtuDLemCCVKiM4xg6nAt42HzYbucCu6tg)
 * [AWS re:Invent 2014 | (DEV308) Automating Your Software Delivery Pipeline](https://www.youtube.com/watch?v=IxW_D79WPZI&index=15&list=PLtuDLemCCVKiM4xg6nAt42HzYbucCu6tg)
 * [How To Use Git Hooks To Automate Development and Deployment Tasks](https://www.digitalocean.com/community/tutorials/how-to-use-git-hooks-to-automate-development-and-deployment-tasks)
+* [Setting up continuous integration with jenkins](http://code.tutsplus.com/tutorials/setting-up-continuous-integration-continuous-deployment-with-jenkins--cms-21511)
 
 ---
 
