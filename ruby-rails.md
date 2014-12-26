@@ -44,6 +44,7 @@
 
 * [Metaprogramming in Ruby](http://code.tutsplus.com/courses/metaprogramming-in-ruby)
 * [Build REST APIs With Grape](http://code.tutsplus.com/courses/build-rest-apis-with-grape) - If you want to build modular, versioned RESTful APIs in Ruby, then Grape is the perfect tool. With its strong conventions, it strives to be the perfect solution for that small to medium size API you want to build.
+* [Use Bower for managing front-end assets in Rails](http://dev.af83.com/2013/01/02/managing-rails-assets-with-bower.html)
 
 ---
 
