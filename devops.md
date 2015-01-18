@@ -20,6 +20,9 @@
 * [AWS re:Invent 2014 | (DEV308) Automating Your Software Delivery Pipeline](https://www.youtube.com/watch?v=IxW_D79WPZI&index=15&list=PLtuDLemCCVKiM4xg6nAt42HzYbucCu6tg)
 * [How To Use Git Hooks To Automate Development and Deployment Tasks](https://www.digitalocean.com/community/tutorials/how-to-use-git-hooks-to-automate-development-and-deployment-tasks)
 * [Setting up continuous integration with jenkins](http://code.tutsplus.com/tutorials/setting-up-continuous-integration-continuous-deployment-with-jenkins--cms-21511)
+* [Jenkins CI for Rails 4, RSpec, Cucumber, Selenium](http://www.eq8.eu/blogs/6-jenkins-ci-for-rails-4-rspec-cucumber-selenium) - In this article we will setup CI system on fresh Ubuntu 12.04, optimized for rails development
+* [Using Jenkins for a Symfony2 project](http://blog.lazycloud.net/en/using-jenkins-for-a-symfony2-project/)
+* [Continuous Integration Using Docker](http://www.activestate.com/blog/2014/01/using-docker-run-ruby-rspec-ci-jenkins) - How to use Docker as a slave for jenkins tests.
 
 ---
 
