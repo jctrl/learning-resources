@@ -31,6 +31,9 @@
 * [AWS re:Invent 2014 | (ARC402) Deployment Automation: From Developer Keyboards to End User Screens](https://www.youtube.com/watch?v=vYXvTbCRGD0&index=16&list=PLtuDLemCCVKiM4xg6nAt42HzYbucCu6tg)
 * [Deploying at GitHub](https://github.com/blog/1241-deploying-at-github)
 * [Hubot,Hipchat and Fabric](http://engineering.custommade.com/hubot-hipchat-and-fabric/)
+* [Deploy Rails with Capistrano 3](http://www.sitepoint.com/deploy-rails-capistrano-3/)
+* [AWS and Capistrano](http://blog.oestrich.org/2014/08/aws-and-capistrano/) - How to dynamically get AWS instances by tags in Capistrano deploy script.
+
 
 ---
 
