@@ -23,6 +23,8 @@
 * [Jenkins CI for Rails 4, RSpec, Cucumber, Selenium](http://www.eq8.eu/blogs/6-jenkins-ci-for-rails-4-rspec-cucumber-selenium) - In this article we will setup CI system on fresh Ubuntu 12.04, optimized for rails development
 * [Using Jenkins for a Symfony2 project](http://blog.lazycloud.net/en/using-jenkins-for-a-symfony2-project/)
 * [Continuous Integration Using Docker](http://www.activestate.com/blog/2014/01/using-docker-run-ruby-rspec-ci-jenkins) - How to use Docker as a slave for jenkins tests.
+* [On-Demand Jenkins Slaves With Amazon EC2](http://artsy.github.io/blog/2012/07/10/on-demand-jenkins-slaves-with-amazon-ec2/) - Tutorial about to use the EC2 Jenkins plugin, to create jenkins slaves on demand on AWS.
+
 
 ---
 
