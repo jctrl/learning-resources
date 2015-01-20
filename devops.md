@@ -56,11 +56,12 @@
 ---
 
 
-## Provisioning
+## Insfrastucture Management
 
 * [Amazon AWS Cloud EC2 bootstrap with userdata cloudinit github puppet](http://www.knowceantech.com/2014/03/amazon-cloud-bootstrap-with-userdata-cloudinit-github-puppet/)
 * [Scaling Puppet in EC2](http://sorcery.smugmug.com/2013/01/14/scaling-puppet-in-ec2/)
 * [How To Use Puppet To Manage Your Servers](https://www.digitalocean.com/community/tutorial_series/how-to-use-puppet-to-manage-your-servers-2)
+* [Infrastructure Management with Capistrano](http://terrarum.net/blog/infrastructure-management-with-capistrano.htm) - How to use Capistrano to automate server tasks like puppet install and more.
 
 ---
 
