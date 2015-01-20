@@ -125,6 +125,12 @@
 
 ---
 
+## Basic Systems Administration
+
+* [Initial Server Setup with Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04)
+
+---
+
 ## Articles
 
 * [DevOps Best Practices: Finding the Right Tools](http://blog.newrelic.com/2014/06/02/devops-tools/)
