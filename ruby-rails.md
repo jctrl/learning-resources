@@ -116,3 +116,11 @@ Get the most out of BDD in Ruby with The RSpec Book, written by the lead develop
 * [Awesome Ruby](https://github.com/markets/awesome-ruby) - A collection of awesome Ruby libraries, tools, frameworks and software. The essential Ruby to build modern Apps and Web Apps.
 
 
+---
+
+## Rubygems
+
+Some usefull rubygems.
+
+* [Thor](http://whatisthor.com/) - Thor is a toolkit for building powerful command-line interfaces. It is used in Bundler, Vagrant, Rails and others.
+* [DotEnv](https://github.com/bkeepers/dotenv) - Loads environment variables from `.env`.
