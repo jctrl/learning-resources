@@ -27,7 +27,7 @@ Workflows, tools etc belong here.
 ---
 
 ## Frontend Workflow
-11
+
 * [Getting Good with Grunt](http://code.tutsplus.com/courses/getting-good-with-grunt)
 * [Pro frontend workflows](http://code.tutsplus.com/courses/pro-front-end-workflows)
 * [Say Yo to Yeoman](http://code.tutsplus.com/courses/say-yo-to-yeoman)
@@ -68,6 +68,7 @@ Workflows, tools etc belong here.
 * [Ideone](http://ideone.com) - Online IDE / Editor
 * [atom.io](http://atom.io) - Open source editor by GitHub
 * [Glue](https://github.com/jorgebastida/glue) - Command line tool for generating sprites.
+
 
 #### Linters and Validators
 
