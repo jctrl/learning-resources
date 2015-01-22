@@ -70,6 +70,7 @@ In this article, we'll dig into what mocking is, why it's useful, and how to int
 
 * [XDebug Tutorial](http://code.tutsplus.com/tutorials/xdebug-professional-php-debugging--net-34396)
 * [XhProf](https://github.com/phacility/xhprof)
+* [Blackfire.io](https://blackfire.io/) - Better app performance with a low-overhead Profiler
 
 ## Tools
 
