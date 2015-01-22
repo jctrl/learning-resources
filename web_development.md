@@ -59,6 +59,7 @@ Workflows, tools etc belong here.
 ## Tools
 
 * [Fontastic](fontastic.me) - Create your icon fonts in seconds. Make your website faster. Over 9,000 icons available. 
+* [JsFiddle](http://jsfiddle.net/) - Test and share JavaScript, CSS, HTML or CoffeeScript online
 * [CodePen](codepen.io) It is an HTML, CSS, and JavaScript code editor in your browser with instant previews of the code you see and write. It is a searchable trove of your own creations, and a world of other people's creations. A place to troubleshoot, to teach, to learn, to test, and to grow.
 * [Ngrok](https://ngrok.com) - Access your localhost from anywhere.
 * [SpritePad](http://spritepad.wearekiss.com) - With SpritePad you can create your CSS sprites within minutes seconds.
@@ -66,6 +67,11 @@ Workflows, tools etc belong here.
 * [Google Webmaster tools](https://www.google.com/webmasters/tools)
 * [Ideone](http://ideone.com) - Online IDE / Editor
 * [atom.io](http://atom.io) - Open source editor by GitHub
+* [Glue](https://github.com/jorgebastida/glue) - Command line tool for generating sprites.
+
+#### Linters and Validators
+
+TODO
 
 ## Analytics
 
