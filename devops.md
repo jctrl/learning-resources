@@ -10,8 +10,9 @@
 * [Building a custom Vagrant Box](https://beingasysadmin.wordpress.com/2013/01/22/building-custom-vagrant-base-box/)
 * [Internal IT Automation With Puppet](http://www.conductor.com/nightlight/internal-it-automation-with-puppet/)
 
-## Continuous Delivery
+## Continuous Integration / Continuous Devlivery
 
+* [ciandcd](https://github.com/itech001/ciandcd) - A curated list of awesome tools forcontinuous integration, continuous delivery etc.
 * [Setting Up Continuous Integration & Continuous Deployment With Jenkins](http://code.tutsplus.com/tutorials/setting-up-continuous-integration-continuous-deployment-with-jenkins--cms-21511)
 * [A skeptic’s guide to continuous delivery, Part 1: The business case](http://blogs.atlassian.com/2014/07/skeptics-guide-continuous-delivery-part-1-business-case/)
 * [One commit, one release. Continuously delivering a Symfony project.](http://pt.slideshare.net/loalf/one-commit-one-release-continuously-delivering-a-symfony-project-39566087)
