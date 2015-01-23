@@ -27,6 +27,7 @@ Start Here if you are new to PHP.
 * [PSR-2 coding standard](http://www.php-fig.org/psr/psr-2/)
 * [Design Patterns](https://tutsplus.com/course/agile-design-patterns/) - In this course, you’ll learn what design patterns are, how each of them is defined, what they are used for and, of course, how to implement them in PHP!
 * [How to Write Testable and Maintainable Code in PHP](http://code.tutsplus.com/tutorials/how-to-write-testable-and-maintainable-code-in-php--net-31726) - Frameworks provide a tool for rapid application development, but often accrue technical debt as rapidly as they allow you to create functionality. Technical debt is created when maintainability isn't a purposeful focus of the developer. Future changes and debugging become costly, due to a lack of unit testing and structure.
+* [Starting a New PHP Package The Right Way](http://www.sitepoint.com/starting-new-php-package-right-way/)
 
 ## Tutorials
 
