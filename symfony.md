@@ -12,7 +12,7 @@ Available in version 2.0, Symfony already has, among the hundreds of sites and a
 
 * [Symfony2 Cookbook](http://symfony.com/doc/current/cookbook) - Is the Symfony Book not enough? The cookook contains more specialized articles cover many aspects of Symfony2 Development.
 
-* [Offical Symfony Best Practices](http://symfony.com/doc/current/best_practices/index.html)
+* [Offical Symfony Best Practices](http://symfony.com/doc/current/best_practices/index.html) - Discover the best practices that fit the philosophy of the framework as envisioned by its original creator Fabien Potencier. Learn a new pragmatic vision for Symfony application development and boost your productivity.
 
 * [Working With Symfony2 - Tutorial Series](http://code.tutsplus.com/series/working-with-symfony-2--cms-636) - In this series, we take a look at how to build applications using Symfony 2.
 
