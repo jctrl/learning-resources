@@ -68,6 +68,8 @@ Workflows, tools etc belong here.
 * [Ideone](http://ideone.com) - Online IDE / Editor
 * [atom.io](http://atom.io) - Open source editor by GitHub
 * [Glue](https://github.com/jorgebastida/glue) - Command line tool for generating sprites.
+* [grunt-favicons](https://www.npmjs.com/package/grunt-favicons) - Grunt task that generates all known types and sizes icons from PNG image. Uses ImageMagick.
+* [grunt-spritesmit](https://www.npmjs.com/package/grunt-spritesmith) - Grunt task for converting a set of images into a spritesheet and corresponding CSS variables.
 
 
 #### Linters and Validators
