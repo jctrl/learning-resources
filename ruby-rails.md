@@ -48,7 +48,7 @@
 
 ---
 
-## RubyGems
+## Build RubyGems
 
 * [Developing a RubyGem using Bundler](https://github.com/radar/guides/blob/master/gem-development.md)
 * [Build an Email Application With Ruby](http://code.tutsplus.com/courses/build-an-email-application-with-ruby) - Ruby is much more than web development. In fact, you can do great things with Ruby on your local system. If you'd like to find out more, jump into the course to learn about how to interact with email servers, with a focus on good software development practices and craftsmanship. We'll create our very own email application with Ruby and publish it to a private gem repository.
@@ -124,3 +124,5 @@ Some usefull rubygems.
 
 * [Thor](http://whatisthor.com/) - Thor is a toolkit for building powerful command-line interfaces. It is used in Bundler, Vagrant, Rails and others.
 * [DotEnv](https://github.com/bkeepers/dotenv) - Loads environment variables from `.env`.
+* [Sintra](http://www.sinatrarb.com/) - Ruby micro-framework.
+* [Middleman](http://middlemanapp.com) - Middleman is a command-line tool for creating static websites using all the shortcuts and tools of the modern web development environment.
