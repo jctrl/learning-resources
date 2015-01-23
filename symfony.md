@@ -124,6 +124,9 @@ Available in version 2.0, Symfony already has, among the hundreds of sites and a
 
 * [Deploy Symfony application with Capifony](http://tutorial.screenfony.com/product/free/symfony2-deployment)
 
+* [Using Incenteev + Capifony to manage environment specific parameters](http://www.uvd.co.uk/blog/using-incenteev-capifony-to-manage-environment-specific-parameters/)
+
+
 ---
 
 ## Conferences Videos
