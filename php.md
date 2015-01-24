@@ -89,6 +89,7 @@ In this article, we'll dig into what mocking is, why it's useful, and how to int
 * [How to Install Xdebug with PHPStorm and Vagrant](http://www.sitepoint.com/install-xdebug-phpstorm-vagrant/)
 * [Configuring PhpStorm and XDEBUG](https://www.jetbrains.com/phpstorm/help/configuring-xdebug.html)
 * [Laravel Homestead](http://laravel.com/docs/4.2/homestead) - Laravel strives to make the entire PHP development experience delightful, including your local development environment. Vagrant provides a simple, elegant way to manage and provision Virtual Machines.
+
 ---
 
 ## Other Resources
