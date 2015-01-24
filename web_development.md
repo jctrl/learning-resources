@@ -12,9 +12,6 @@ Workflows, tools etc belong here.
 
 * [Tools of the Modern Web Developer](http://code.tutsplus.com/courses/tools-of-the-modern-web-developer)
 * [More Tools of the Modern Web Developer](http://code.tutsplus.com/courses/more-tools-of-the-modern-web-developer)
-* [Speedy Workflows With Atom](http://code.tutsplus.com/courses/speedy-workflows-with-atom)
-* [Perfect Workflow in NetBeans](http://code.tutsplus.com/courses/perfect-workflow-in-netbeans)
-* [Perfect workflow in sublime text 2](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
 
 
 ---
