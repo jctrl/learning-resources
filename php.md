@@ -28,6 +28,9 @@ Start Here if you are new to PHP.
 * [Design Patterns](https://tutsplus.com/course/agile-design-patterns/) - In this course, you’ll learn what design patterns are, how each of them is defined, what they are used for and, of course, how to implement them in PHP!
 * [How to Write Testable and Maintainable Code in PHP](http://code.tutsplus.com/tutorials/how-to-write-testable-and-maintainable-code-in-php--net-31726) - Frameworks provide a tool for rapid application development, but often accrue technical debt as rapidly as they allow you to create functionality. Technical debt is created when maintainability isn't a purposeful focus of the developer. Future changes and debugging become costly, due to a lack of unit testing and structure.
 * [Starting a New PHP Package The Right Way](http://www.sitepoint.com/starting-new-php-package-right-way/)
+* [PHP Tips, Resources and Best Practices for 2015](http://www.sitepoint.com/php-tips-resources-best-practices-2015/)
+
+---
 
 ## Tutorials
 
@@ -80,6 +83,12 @@ In this article, we'll dig into what mocking is, why it's useful, and how to int
 * [8 Must have PHP QA tools](http://www.sitepoint.com/8-must-have-php-quality-assurance-tools/)
 * [PHP CS-fixer](http://cs.sensiolabs.org)
 
+
+## Development Environment
+
+* [How to Install Xdebug with PHPStorm and Vagrant](http://www.sitepoint.com/install-xdebug-phpstorm-vagrant/)
+* [Configuring PhpStorm and XDEBUG](https://www.jetbrains.com/phpstorm/help/configuring-xdebug.html)
+* [Laravel Homestead](http://laravel.com/docs/4.2/homestead) - Laravel strives to make the entire PHP development experience delightful, including your local development environment. Vagrant provides a simple, elegant way to manage and provision Virtual Machines.
 ---
 
 ## Other Resources
