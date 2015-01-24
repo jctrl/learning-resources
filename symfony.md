@@ -32,7 +32,7 @@ Available in version 2.0, Symfony already has, among the hundreds of sites and a
 
 ---
 
-## Blogs
+## Symfony Devs Blogs
 
 * [Fabien Potencier blog](http://fabien.potencier.org/)
 
@@ -62,6 +62,12 @@ Available in version 2.0, Symfony already has, among the hundreds of sites and a
 
 ---
 
+#### Dependency Injection
+
+TODO
+
+---
+
 #### Doctrine
 
 * [How to organize doctrine 2 repositories](http://weavora.com/blog/2013/08/23/how-we-organize-doctrine2-repositories/) - 
@@ -70,6 +76,7 @@ Available in version 2.0, Symfony already has, among the hundreds of sites and a
 
 * [Inject service into Doctrine Repository](http://www.phamviet.net/2012/12/09/symfony-2-inject-service-as-dependency-in-to-repository/)
 
+* [Create custom Doctrine functions](http://punkave.com/window/2012/07/24/for-the-php-crowd-adding-custom-functions-to-doctrine-2-dql)
 ---
 
 #### Console
@@ -93,6 +100,10 @@ Available in version 2.0, Symfony already has, among the hundreds of sites and a
 * [A better way to work with assets in Symfony 2](http://konradpodgorski.com/blog/2014/06/23/better-way-to-work-with-assets-in-symfony-2/)
 
 * [Optimizing Frontend Workflow](http://pt.slideshare.net/mdavis1982/optimising-your-front-end-workflow-with-symfony-twig-bower-and-gulp)
+
+* [Building symfony2 with gulp](https://florian.ec/articles/buliding-symfony2-with-gulp/)
+
+* [Evolving RequireJS, Bower and Grunt](https://knpuniversity.com/blog/requirejs-bower-grunt)
 
 ---
 
@@ -125,7 +136,6 @@ Available in version 2.0, Symfony already has, among the hundreds of sites and a
 * [Deploy Symfony application with Capifony](http://tutorial.screenfony.com/product/free/symfony2-deployment)
 
 * [Using Incenteev + Capifony to manage environment specific parameters](http://www.uvd.co.uk/blog/using-incenteev-capifony-to-manage-environment-specific-parameters/)
-
 
 ---
 
