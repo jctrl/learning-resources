@@ -48,6 +48,10 @@
 * [How To Use Puppet To Manage Your Servers](https://www.digitalocean.com/community/tutorial_series/how-to-use-puppet-to-manage-your-servers-2)
 * [Infrastructure Management with Capistrano](http://terrarum.net/blog/infrastructure-management-with-capistrano.htm) - How to use Capistrano to automate server tasks like puppet install and more.
 
+#### Puppet
+
+* [Puppet Videos](https://www.youtube.com/playlist?list=PLtuDLemCCVKgJ3JNtHmtL-kbgoZG6uCTH)
+
 ---
 
 ## ChatOps
