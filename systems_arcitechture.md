@@ -3,6 +3,10 @@
 
 * [5 Common Server Setups For Your Web Application](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
 
+#### System Administration basics
+
+* [Initial Server Setup with Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04)
+
 #### Load Balancing
 
 * [How To Set Up Nginx Load Balancing](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-load-balancing)
@@ -26,14 +30,33 @@
 
 * [How To Create a Sharded Cluster in MongoDB Using an Ubuntu 12.04 VPS](https://www.digitalocean.com/community/tutorials/how-to-create-a-sharded-cluster-in-mongodb-using-an-ubuntu-12-04-vps)
 
+---
+
+## AWS
+
+* [Linux Academy](https://linuxacademy.com/amazon-web-services)
+* [Articles & Tutorials](https://aws.amazon.com/articles)
+* [AWS Tutorials](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html)
+* [Painless AWS Auto Scaling With EBS Snapshots and Capistrano](http://boomboomboom.biz/blog/2013/06/28/painless-aws-autoscaling-with-ebs-snapshots-and-capistrano/)
+* [Autoscaling on AWS Without Bundling AMIs](http://www.arfon.org/autoscaling-on-aws-without-bundling-amis)
+* [AWS - High Availability](https://www.youtube.com/watch?v=ioYLuEVZJjc)
+
+
+#### DigitalOcean
+
+* [How To Automate the Scaling of Your Web Application on DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-automate-the-scaling-of-your-web-application-on-digitalocean)
+
+
+#### Caching
+
+* [Web Caching Basics: Terminology, HTTP Headers, and Caching Strategies](https://www.digitalocean.com/community/tutorials/web-caching-basics-terminology-http-headers-and-caching-strategies)
+* [AWS re:Invent 2014 | (WEB204) Speeding Up Your Site's Performance with a Web Cache](https://www.youtube.com/watch?v=kehGS9LPQpY&list=PLtuDLemCCVKj1kLFVndsA-yfWWm5zq3gE&index=3)
+* [PHP UK Conference 2014 - Eli White - Caching Best Practices](https://www.youtube.com/watch?v=bsZQcbBcXuQ)
+
+---
 
 #### Case Studies
 
 * [Scaling The World Cup - How Gambify Runs A Massive Mobile Betting App With A Team Of 2](http://highscalability.com/blog/2014/7/7/scaling-the-world-cup-how-gambify-runs-a-massive-mobile-bett.html)
 * [Tumblr Architecture - 15 Billion Page Views A Month And Harder To Scale Than Twitter](http://highscalability.com/blog/2012/2/13/tumblr-architecture-15-billion-page-views-a-month-and-harder.html)
 * [How HipChat scales to 1 Billion Messages](http://blog.hipchat.com/2013/10/16/how-hipchat-scales-to-1-billion-messages/)
-
-#### Caching
-
-* [AWS re:Invent 2014 | (WEB204) Speeding Up Your Site's Performance with a Web Cache](https://www.youtube.com/watch?v=kehGS9LPQpY&list=PLtuDLemCCVKj1kLFVndsA-yfWWm5zq3gE&index=3)
-* [PHP UK Conference 2014 - Eli White - Caching Best Practices](https://www.youtube.com/watch?v=bsZQcbBcXuQ)
