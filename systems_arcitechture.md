@@ -18,6 +18,7 @@
 * [How To Use HAProxy to Set Up MySQL Load Balancing](https://www.digitalocean.com/community/tutorials/how-to-use-haproxy-to-set-up-mysql-load-balancing--3)
 * [How To Use HAProxy As A Layer 7 Load Balancer For WordPress and Nginx On Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-use-haproxy-as-a-layer-7-load-balancer-for-wordpress-and-nginx-on-ubuntu-14-04)
 * [How To Use HAProxy As A Layer 4 Load Balancer for WordPress Application Servers on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-use-haproxy-as-a-layer-4-load-balancer-for-wordpress-application-servers-on-ubuntu-14-04)
+* [Howto setup High-Available HAProxy with Keepalived](http://blog.laimbock.com/2014/10/01/howto-setup-high-available-haproxy-with-keepalived/)
 
 --- 
 
@@ -61,6 +62,12 @@
 
 ---
 
+# Service Discovery
+
+[An Introduction to Using Consul, a Service Discovery System, on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/an-introduction-to-using-consul-a-service-discovery-system-on-ubuntu-14-04)
+
+
+---
 #### Case Studies
 
 * [Scaling The World Cup - How Gambify Runs A Massive Mobile Betting App With A Team Of 2](http://highscalability.com/blog/2014/7/7/scaling-the-world-cup-how-gambify-runs-a-massive-mobile-bett.html)
