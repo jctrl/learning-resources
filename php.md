@@ -29,7 +29,7 @@ Start Here if you are new to PHP.
 * [How to Write Testable and Maintainable Code in PHP](http://code.tutsplus.com/tutorials/how-to-write-testable-and-maintainable-code-in-php--net-31726) - Frameworks provide a tool for rapid application development, but often accrue technical debt as rapidly as they allow you to create functionality. Technical debt is created when maintainability isn't a purposeful focus of the developer. Future changes and debugging become costly, due to a lack of unit testing and structure.
 * [Starting a New PHP Package The Right Way](http://www.sitepoint.com/starting-new-php-package-right-way/)
 * [PHP Tips, Resources and Best Practices for 2015](http://www.sitepoint.com/php-tips-resources-best-practices-2015/)
-
+* [Marcello Duarte - Barely Enough Design](https://www.youtube.com/watch?v=NQN72Big8ww)
 ---
 
 ## Tutorials
@@ -40,6 +40,12 @@ Start Here if you are new to PHP.
 
 * [Dates and Time - The OOP Way](http://dev.tutsplus.com/tutorials/dates-and-time-the-oop-way--net-35395)
 * [Easy Package Management With Composer](http://code.tutsplus.com/tutorials/easy-package-management-with-composer--net-25530)
+
+* [Jordi Boggiano - Composer Best Practices](https://www.youtube.com/watch?v=mNFKZeYRdto)
+
+#### Microframeworks
+
+* [Billie Thompson - MVVM and Silex - It's the future](https://www.youtube.com/watch?v=jL9nfIiX6G0)
 
 ---
 
