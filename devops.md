@@ -9,6 +9,7 @@
 * [Vagrant - Staging Server](http://code.tutsplus.com/articles/setting-up-a-staging-environment--net-29738)
 * [Building a custom Vagrant Box](https://beingasysadmin.wordpress.com/2013/01/22/building-custom-vagrant-base-box/)
 * [Internal IT Automation With Puppet](http://www.conductor.com/nightlight/internal-it-automation-with-puppet/)
+* [SUPERCHARGE YOUR DEVELOPMENTENVIRONMENT](https://denibertovic.com/talks/supercharge-development-env-using-docker/#/)
 
 ##  Continuous Devlivery
 
@@ -68,10 +69,16 @@
 
 --- 
 
+## Logging and Monitoring
+
+* [How To Use Logstash and Kibana To Centralize Logs On Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-use-logstash-and-kibana-to-centralize-and-visualize-logs-on-ubuntu-14-04)
+* [How To Configure Sensu Monitoring, RabbitMQ, and Redis on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-configure-sensu-monitoring-rabbitmq-and-redis-on-ubuntu-14-04)
+
+---
+
 ## Docker
 
 * [Fig - Fast, isolated development environments using Docker](http://www.fig.sh/)
-* [SUPERCHARGE YOUR DEVELOPMENTENVIRONMENT](https://denibertovic.com/talks/supercharge-development-env-using-docker/#/)
 * [A RAILS DEVELOPMENT ENVIRONMENT USING DOCKER THROUGH FIG.](http://www.whitesmith.co/blog/a-rails-development-environment-using-docker-through-fig/)
 
 ---
