@@ -45,6 +45,8 @@
 * [AWS re:Invent 2014 | (WEB401) Optimizing Your Web Server on AWS](https://www.youtube.com/watch?v=ZfY0kwYiBRY)
 * [Painless AWS Auto Scaling With EBS Snapshots and Capistrano](http://boomboomboom.biz/blog/2013/06/28/painless-aws-autoscaling-with-ebs-snapshots-and-capistrano/)
 * [Autoscaling on AWS Without Bundling AMIs](http://www.arfon.org/autoscaling-on-aws-without-bundling-amis)
+* [A Comprehensive Guide to Building a Scalable Web App on Amazon Web Services - Part 1](https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1)
+* [Rapid Scaling with Auto-Generated AMIs Using Puppet](https://puppetlabs.com/blog/rapid-scaling-with-auto-generated-amis-using-puppet)
 
 ---
 
