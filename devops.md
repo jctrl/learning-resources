@@ -10,7 +10,7 @@
 * [Building a custom Vagrant Box](https://beingasysadmin.wordpress.com/2013/01/22/building-custom-vagrant-base-box/)
 * [Internal IT Automation With Puppet](http://www.conductor.com/nightlight/internal-it-automation-with-puppet/)
 
-## Continuous Integration / Continuous Devlivery
+##  Continuous Devlivery
 
 * [ciandcd](https://github.com/itech001/ciandcd) - A curated list of awesome tools forcontinuous integration, continuous delivery etc.
 * [Setting Up Continuous Integration & Continuous Deployment With Jenkins](http://code.tutsplus.com/tutorials/setting-up-continuous-integration-continuous-deployment-with-jenkins--cms-21511)
@@ -25,6 +25,7 @@
 * [Using Jenkins for a Symfony2 project](http://blog.lazycloud.net/en/using-jenkins-for-a-symfony2-project/)
 * [Continuous Integration Using Docker](http://www.activestate.com/blog/2014/01/using-docker-run-ruby-rspec-ci-jenkins) - How to use Docker as a slave for jenkins tests.
 * [On-Demand Jenkins Slaves With Amazon EC2](http://artsy.github.io/blog/2012/07/10/on-demand-jenkins-slaves-with-amazon-ec2/) - Tutorial about to use the EC2 Jenkins plugin, to create jenkins slaves on demand on AWS.
+* [Javier Lopez - Continuously delivering PHP projects](https://www.youtube.com/watch?v=HOwPJg-F4h0&list=PLtuDLemCCVKimPnYspngDKSf0U2lrhE7G&index=9)
 
 
 ---
