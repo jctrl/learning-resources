@@ -77,6 +77,7 @@ TODO
 * [Inject service into Doctrine Repository](http://www.phamviet.net/2012/12/09/symfony-2-inject-service-as-dependency-in-to-repository/)
 
 * [Create custom Doctrine functions](http://punkave.com/window/2012/07/24/for-the-php-crowd-adding-custom-functions-to-doctrine-2-dql)
+
 ---
 
 #### Console
