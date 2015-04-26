@@ -64,7 +64,7 @@ Available in version 2.0, Symfony already has, among the hundreds of sites and a
 
 #### Dependency Injection
 
-TODO
+* [Inject a repository instead of an entity manage](http://php-and-symfony.matthiasnoback.nl/2014/05/inject-a-repository-instead-of-an-entity-manager/)
 
 ---
 
@@ -77,6 +77,9 @@ TODO
 * [Inject service into Doctrine Repository](http://www.phamviet.net/2012/12/09/symfony-2-inject-service-as-dependency-in-to-repository/)
 
 * [Create custom Doctrine functions](http://punkave.com/window/2012/07/24/for-the-php-crowd-adding-custom-functions-to-doctrine-2-dql)
+
+* [How to store Doctrine entities outside of a Symfony bundle?](http://zalas.eu/how-to-store-doctrine-entities-outside-of-a-symfony-bundle/) 
+
 
 ---
 
@@ -93,7 +96,7 @@ TODO
 * [Tracking New Member Origination with Symfony2](http://jwage.com/post/54943645180/tracking-new-member-origination-with-symfony2)
 
 * [Using kernel events like preExecute to log requests](http://shout.setfive.com/2013/07/08/symfony2-using-kernel-events-like-preexecute-to-log-requests/)
-
+* [How to Setup before and after Filters](http://symfony.com/doc/current/cookbook/event_dispatcher/before_after_filters.html)
 ---
 
 #### Asset Management
