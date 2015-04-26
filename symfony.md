@@ -97,6 +97,7 @@ Available in version 2.0, Symfony already has, among the hundreds of sites and a
 
 * [Using kernel events like preExecute to log requests](http://shout.setfive.com/2013/07/08/symfony2-using-kernel-events-like-preexecute-to-log-requests/)
 * [How to Setup before and after Filters](http://symfony.com/doc/current/cookbook/event_dispatcher/before_after_filters.html)
+
 ---
 
 #### Asset Management
