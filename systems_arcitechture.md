@@ -37,10 +37,8 @@
 * [Linux Academy](https://linuxacademy.com/amazon-web-services)
 * [Articles & Tutorials](https://aws.amazon.com/articles)
 * [AWS Tutorials](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html)
-* [Painless AWS Auto Scaling With EBS Snapshots and Capistrano](http://boomboomboom.biz/blog/2013/06/28/painless-aws-autoscaling-with-ebs-snapshots-and-capistrano/)
-* [Autoscaling on AWS Without Bundling AMIs](http://www.arfon.org/autoscaling-on-aws-without-bundling-amis)
 * [AWS - High Availability](https://www.youtube.com/watch?v=ioYLuEVZJjc)
-
+* [AWS re:Invent 2014 | (WEB401) Optimizing Your Web Server on AWS](https://www.youtube.com/watch?v=ZfY0kwYiBRY)
 
 #### DigitalOcean
 
