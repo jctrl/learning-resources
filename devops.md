@@ -27,7 +27,7 @@
 * [Continuous Integration Using Docker](http://www.activestate.com/blog/2014/01/using-docker-run-ruby-rspec-ci-jenkins) - How to use Docker as a slave for jenkins tests.
 * [On-Demand Jenkins Slaves With Amazon EC2](http://artsy.github.io/blog/2012/07/10/on-demand-jenkins-slaves-with-amazon-ec2/) - Tutorial about to use the EC2 Jenkins plugin, to create jenkins slaves on demand on AWS.
 * [Javier Lopez - Continuously delivering PHP projects](https://www.youtube.com/watch?v=HOwPJg-F4h0&list=PLtuDLemCCVKimPnYspngDKSf0U2lrhE7G&index=9)
-
+* [Efficiency in Development Workflows](ebooks.codeship.com/efficiency-in-development-workflows-by-codeship/) - A free eBook for Software Developers that will save you a lot of time and make you and your development team happy.
 
 ---
 
@@ -66,6 +66,7 @@
 * [How we use Hipchat to work remotely](https://blog.serverdensity.com/use-hipchat-work-remotely/)
 * [Make HipChat your Team’s Command Center](https://blog.hipchat.com/2013/02/28/make-hipchat-your-teams-command-center/)
 * [See how artifakt goes beyond chat with HipChat integrations](https://blog.hipchat.com/2014/01/07/see-how-artifakt-goes-beyond-chat-with-hipchat-integrations/)
+* [9 Things Your Chatbot Should Do For You](http://blog.hellosign.com/9-things-your-chatbot-should-do-for-you/)
 
 --- 
 
