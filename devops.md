@@ -48,6 +48,7 @@
 * [Scaling Puppet in EC2](http://sorcery.smugmug.com/2013/01/14/scaling-puppet-in-ec2/)
 * [How To Use Puppet To Manage Your Servers](https://www.digitalocean.com/community/tutorial_series/how-to-use-puppet-to-manage-your-servers-2)
 * [Infrastructure Management with Capistrano](http://terrarum.net/blog/infrastructure-management-with-capistrano.htm) - How to use Capistrano to automate server tasks like puppet install and more.
+* [BUILD, TEST, AND AUTOMATE SERVER IMAGE CREATION](http://code.hootsuite.com/build-test-and-automate-server-image-creation/) - An overview how to use Packer, Jenkins and Ansbile together to provision AWS instances.
 
 #### Puppet
 
