@@ -2,10 +2,15 @@
 
 * [9 Anti-Patterns Every Programmer Should Be Aware Of](http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
 * [Techniques for Refactoring code](http://code.tutsplus.com/courses/techniques-for-refactoring-code)
+* [Factorish and the 12Fakter App](http://blog.codeship.com/factorish-and-the-12fakter-app/)
+
+---
 
 ## Resources
 
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
+
+---
 
 ## Developer Tools
 
@@ -14,6 +19,7 @@
 * [Perfect workflow in sublime text 2](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
 
 ---
+
 ## Terminal
 
 * [Advanced Command Line Techniques](http://code.tutsplus.com/courses/advanced-command-line-techniques)
