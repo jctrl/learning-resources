@@ -1,5 +1,6 @@
 # General Development
 
+* [9 Anti-Patterns Every Programmer Should Be Aware Of](http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
 * [Techniques for Refactoring code](http://code.tutsplus.com/courses/techniques-for-refactoring-code)
 
 ## Resources
