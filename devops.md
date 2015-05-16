@@ -2,6 +2,8 @@
 
 * [What is devops, in simple english](https://www.youtube.com/watch?v=_I94-tJlovg)
 
+---
+
 ## Development Environment
 
 * [Aewsome Vagrant](https://github.com/iJackUA/awesome-vagrant) - A curated list of awesome Vagrant resources, plugins, tutorials and other nice things. Inspired by awesome lists.
@@ -10,6 +12,8 @@
 * [Building a custom Vagrant Box](https://beingasysadmin.wordpress.com/2013/01/22/building-custom-vagrant-base-box/)
 * [Internal IT Automation With Puppet](http://www.conductor.com/nightlight/internal-it-automation-with-puppet/)
 * [SUPERCHARGE YOUR DEVELOPMENTENVIRONMENT](https://denibertovic.com/talks/supercharge-development-env-using-docker/#/)
+
+---
 
 ##  Continuous Devlivery
 
@@ -28,6 +32,7 @@
 * [On-Demand Jenkins Slaves With Amazon EC2](http://artsy.github.io/blog/2012/07/10/on-demand-jenkins-slaves-with-amazon-ec2/) - Tutorial about to use the EC2 Jenkins plugin, to create jenkins slaves on demand on AWS.
 * [Javier Lopez - Continuously delivering PHP projects](https://www.youtube.com/watch?v=HOwPJg-F4h0&list=PLtuDLemCCVKimPnYspngDKSf0U2lrhE7G&index=9)
 * [Efficiency in Development Workflows](ebooks.codeship.com/efficiency-in-development-workflows-by-codeship/) - A free eBook for Software Developers that will save you a lot of time and make you and your development team happy.
+* [Five Tips to Get Started with Continuous Delivery](https://medium.com/aws-activate-startup-blog/five-tips-to-get-started-with-continuous-delivery-c292cfd60970)
 
 ---
 
@@ -39,7 +44,6 @@
 * [Deploy Rails with Capistrano 3](http://www.sitepoint.com/deploy-rails-capistrano-3/)
 * [AWS and Capistrano](http://blog.oestrich.org/2014/08/aws-and-capistrano/) - How to dynamically get AWS instances by tags in Capistrano deploy script.
 
-
 ---
 
 ## Insfrastucture Management
@@ -50,6 +54,8 @@
 * [Infrastructure Management with Capistrano](http://terrarum.net/blog/infrastructure-management-with-capistrano.htm) - How to use Capistrano to automate server tasks like puppet install and more.
 * [BUILD, TEST, AND AUTOMATE SERVER IMAGE CREATION](http://code.hootsuite.com/build-test-and-automate-server-image-creation/) - An overview how to use Packer, Jenkins and Ansbile together to provision AWS instances.
 * [Chasing AMI - Building Amazon machine images with Puppet, Packer and Jenkins](http://pt.slideshare.net/bobtfish/chasing-ami-puppetcamplondonapr2014)
+* [DEPLOYING A LAMP STACK ON AWS (PART 3): DEPLOY INFRASTRUCTURE AND APPLICATIONS WITH TERRAFORM]()https://scotch.io/tutorials/deploying-a-lamp-stack-on-aws-part-3-deploy-infrastructure-and-applications-with-terraform
+
 
 #### Puppet
 
