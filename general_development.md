@@ -3,7 +3,7 @@
 * [9 Anti-Patterns Every Programmer Should Be Aware Of](http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
 * [Techniques for Refactoring code](http://code.tutsplus.com/courses/techniques-for-refactoring-code)
 * [Factorish and the 12Fakter App](http://blog.codeship.com/factorish-and-the-12fakter-app/)
-* [fast-software-development-workflow]((http://blog.codeship.com/fast-software-development-workflow/)
+* [fast-software-development-workflow](http://blog.codeship.com/fast-software-development-workflow/)
 
 ---
 
