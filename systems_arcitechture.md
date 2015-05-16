@@ -1,6 +1,7 @@
 
 # Systems Architecture
 
+* [Why you should use cloud services](http://blog.codeship.com/why-you-should-use-cloud-services/)
 * [5 Common Server Setups For Your Web Application](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
 
 #### System Administration basics
