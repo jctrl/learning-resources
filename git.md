@@ -8,6 +8,7 @@
 * [Learn Git by Git-tower](http://www.git-tower.com/learn/)
 * [Get Git Right](https://www.atlassian.com/git/)
 * [Learn git Branching](http://pcottle.github.io/learnGitBranching/)
+* [How to undo anything with git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 
 ---
 
