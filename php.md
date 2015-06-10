@@ -86,7 +86,7 @@ In this article, we'll dig into what mocking is, why it's useful, and how to int
 * [XDebug Tutorial](http://code.tutsplus.com/tutorials/xdebug-professional-php-debugging--net-34396)
 * [XhProf](https://github.com/phacility/xhprof)
 * [Blackfire.io](https://blackfire.io/) - Better app performance with a low-overhead Profiler
-
+* [Debugging PHP with PHPStorm](https://www.youtube.com/watch?v=LUTolQw8K9A)
 ---
 
 ## Tools
@@ -103,6 +103,12 @@ In this article, we'll dig into what mocking is, why it's useful, and how to int
 * [How to Install Xdebug with PHPStorm and Vagrant](http://www.sitepoint.com/install-xdebug-phpstorm-vagrant/)
 * [Configuring PhpStorm and XDEBUG](https://www.jetbrains.com/phpstorm/help/configuring-xdebug.html)
 * [Laravel Homestead](http://laravel.com/docs/4.2/homestead) - Laravel strives to make the entire PHP development experience delightful, including your local development environment. Vagrant provides a simple, elegant way to manage and provision Virtual Machines.
+
+
+## Documentation
+
+* [Introduction to PHPdoc](http://www.sitepoint.com/introduction-to-phpdoc)
+
 
 ---
 
